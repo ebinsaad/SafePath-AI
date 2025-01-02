@@ -2,7 +2,8 @@
 :root {
     --primary-yellow: rgb(254, 206, 0);
     --primary-blue: rgb(0, 85, 150);
-    --text-color: #ffffff; /* For contrast against blue */
+    --text-color: #ffffff; /* For text contrast */
+    --neutral-bg: #ffffff; /* White background for content */
 }
 
 /* Body and General Styles */
@@ -12,44 +13,68 @@ body {
     padding: 0;
     line-height: 1.6;
     color: var(--primary-blue);
-    background: var(--primary-yellow);
-    background-attachment: fixed;
+    background-color: var(--neutral-bg);
 }
 
 /* Header Styles */
 header {
     background-color: var(--primary-blue);
     color: var(--text-color);
+    text-align: center;
+    padding: 20px 0;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-header h1, header p {
+header h1 {
     margin: 0;
+    font-size: 2.5rem;
+}
+
+header p {
+    margin: 5px 0;
+}
+
+/* Navigation Styles */
+nav {
+    margin-top: 10px;
 }
 
 nav a {
     color: var(--text-color);
     text-decoration: none;
     margin: 0 10px;
+    font-weight: bold;
 }
 
 nav a:hover {
-    text-decoration: underline;
+    color: var(--primary-yellow);
 }
 
 /* Footer Styles */
 footer {
     background-color: var(--primary-blue);
     color: var(--text-color);
+    text-align: center;
     padding: 10px 0;
+}
+
+/* Section Dividers */
+section {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: var(--primary-yellow);
+    color: var(--primary-blue);
+    border-radius: 5px;
 }
 
 /* Card Styles */
 .card {
-    border: 1px solid var(--primary-blue);
-    border-radius: 5px;
-    background: var(--text-color);
+    background-color: var(--neutral-bg);
     color: var(--primary-blue);
+    border: 2px solid var(--primary-blue);
+    border-radius: 8px;
+    margin: 15px 0;
+    padding: 15px;
     transition: transform 0.3s, box-shadow 0.3s;
 }
 
@@ -60,15 +85,16 @@ footer {
 
 /* Button Styles */
 button {
-    background-color: var(--primary-blue);
-    color: var(--text-color);
+    background-color: var(--primary-yellow);
+    color: var(--primary-blue);
     border: none;
-    padding: 10px 15px;
+    padding: 10px 20px;
     border-radius: 5px;
+    font-size: 1rem;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: var(--primary-yellow);
-    color: var(--primary-blue);
+    background-color: var(--primary-blue);
+    color: var(--text-color);
 }
