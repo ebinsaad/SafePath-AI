@@ -5,8 +5,14 @@ title: Contact Us
 
 # Contact SafePath AI
 
-Have questions or need help with your AI solutions? Reach out to us!
+We’d love to hear from you! Reach out to us for inquiries or to discuss your project needs.
 
+## Get in Touch
+- **Email**: contact@safepath.ai
+- **Phone**: +1 (123) 456-7890
+- **Address**: 123 Innovation Drive, Tech City, ST 45678
+
+## Send Us a Message
 <form action="https://fabform.io/f/3Mfqcf0" method="POST">
     <div class="mb-3">
         <label for="name" class="form-label">Name</label>
