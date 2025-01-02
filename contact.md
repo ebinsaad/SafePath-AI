@@ -7,7 +7,7 @@ title: Contact Us
 
 Have questions or need help with your AI solutions? Reach out to us!
 
-<form action="https://formspree.io/f/your-form-id" method="POST">
+<form action="https://fabform.io/f/3Mfqcf0" method="POST">
     <div class="mb-3">
         <label for="name" class="form-label">Name</label>
         <input type="text" class="form-control" id="name" name="name" required>
