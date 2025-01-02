@@ -9,7 +9,7 @@ We’d love to hear from you! Reach out to us for inquiries or to discuss your p
 
 ## Get in Touch
 - **Email**: contact@safepath.ai
-- **Phone**: +1 (123) 456-7890
+- **Phone**: +1 (123) 456-7891
 - **Address**: 123 Innovation Drive, Tech City, ST 45678
 
 ## Send Us a Message
