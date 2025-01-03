@@ -1,5 +1,5 @@
 title: SafePath AI
 description: An Emerging Technologies Clinic for Trustworthy AI Solutions
-baseurl: "" # Keep it blank for GitHub Pages
-url: "https://ebinsaad.github.io" # Replace with your GitHub Pages URL
-theme: minima # Default theme
+baseurl: "" # Leave empty for GitHub Pages
+url: "https://ebinsaad.github.io/SafePath-AI" # Your GitHub Pages URL
+theme: minima # Default Jekyll theme

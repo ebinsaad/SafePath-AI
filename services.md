@@ -5,14 +5,21 @@ title: Services
 
 # Our Services
 
-1. **AI Ethics and Bias Mitigation**  
-   Ensuring fairness and transparency in AI systems.
+SafePath AI offers a range of consulting services to ensure your AI systems are trustworthy and effective:
 
-2. **Robustness Testing for AI Systems**  
-   Evaluating the security of AI systems against adversarial threats.
+### 1. **AI Ethics and Bias Mitigation**
+We assess and eliminate bias in datasets and AI models to ensure fairness.
 
-3. **Explainability and Transparency**  
-   Making AI decisions interpretable and understandable.
+### 2. **Robustness Testing**
+Simulate adversarial attacks and evaluate system resilience under diverse conditions.
 
-4. **AI Governance and Compliance**  
-   Helping organizations comply with AI regulations and best practices.
+### 3. **Explainability and Transparency**
+Make AI decisions interpretable with state-of-the-art tools and frameworks.
+
+### 4. **AI Governance and Compliance**
+Help organizations adhere to global AI standards and regulations.
+
+### 5. **Custom Solutions**
+Tailored services to address unique challenges in AI implementation.
+
+[Contact Us](contact.html) to discuss how we can support your organization.
